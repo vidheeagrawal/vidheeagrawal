@@ -3,7 +3,7 @@ Hi there 👋<br>I'm Vidhee Agrawal, a B.Tech student on a journey of exploring 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vidhee.agrawal?igshid=MXVoNTd1cXpqMXdm)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vidheeagrawal_?igshid=MXVoNTd1cXpqMXdm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhee-agrawal-6409831bb)
 
 # 💻 Tech Stack:
