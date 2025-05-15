@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>I'm Vidhee Agrawal, a B.Tech student on a journey of exploring the world of web development. 🚀<br><br>🔭 Currently pursuing my B.Tech degree.<br>🌱 Learning the ropes of web development and diving into the endless possibilities it offers.<br>👯 Looking forward to collaborating on projects related to web development.<br>💻 Currently working on data structures and algorithms (DSA) using C++.<br>📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/vidhee-agrawal-6409831bb) to explore potential collaborations and discussions.<br><br>Let's code, learn, and create something awesome together! 💻✨
+Hi there 👋<br>I'm Vidhee Agrawal, a B.Tech student on a journey of exploring the world of web development. 🚀<br><br>🔭 Currently pursuing my B.Tech degree.<br>🌱 Learning the ropes of web development and diving into the endless possibilities it offers.<br>👯 Looking forward to collaborating on projects related to web development.<br>💻 Currently working on data structures and algorithms (DSA) using C++.<br>📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/vidhee-agrawal-a750b935a/) to explore potential collaborations and discussions.<br><br>Let's code, learn, and create something awesome together! 💻✨
 
 
 
